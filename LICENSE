@@ -1,21 +1,27 @@
-MIT License
+almheb - A project by ALMHEB
 
-Copyright (c) 2024 ALMHEB
+This software is licensed under the GNU General Public License v3.0. You are free to use, modify, and distribute this software, provided that:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. **Source Code Availability**: Any distributed version of this software, including modifications or derivative works, must include the full source code.
+2. **License Preservation**: The distributed versions must maintain this license and the original copyright notice.
+3. **Patent Grant**: Contributors grant an express patent license for their contributions to this project.
+4. **Share Alike**: Any derivative works or modifications must be released under the same GPL-3.0 license.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+**Permissions**:
+- Commercial Use
+- Modification
+- Distribution
+- Patent Use
+- Private Use
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+**Limitations**:
+- No Liability
+- No Warranty
+
+**Conditions**:
+- Include Original License & Copyright Notice
+- Disclose Source
+- Apply Same License for Derivative Works
+
+For full license text, refer to the LICENSE file or visit [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+
